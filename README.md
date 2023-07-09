@@ -1,5 +1,5 @@
 # magento-2-pre-order
-Magento 2 Pre Order extension allows customers to purchase products that are not available, enabling customers to order products in higher quantities than available in Magento 2.
+Your customers can order products that are unavailable or limited in Magento 2 with the Magento 2 Pre Order extension, which allows them to purchase products in excess of the available quantity.
 
 Please go to https://magehq.com/magento-2-pre-order.html buy extension
 
